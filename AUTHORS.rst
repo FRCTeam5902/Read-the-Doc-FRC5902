@@ -1,7 +1,5 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
-
-
+* Wayne Moulton (Mentor)
+* 2019 Programming Team
