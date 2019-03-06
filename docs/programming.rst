@@ -1,4 +1,4 @@
-Programming Troubleshooting at Competitions
+Competition - Programming
 ========
 
 $project will solve your problem of where to start with documentation,
