@@ -1,4 +1,4 @@
-About The Wire Clippers 5902
+Programming Troubleshooting at Competitions
 ========
 
 $project will solve your problem of where to start with documentation,
@@ -10,32 +10,21 @@ Look how easy it is to use:
     # Get your stuff done
     project.do_stuff()
 
-Team Structure
+Important IPs
 --------
 
 - Be awesome
 - Make things faster
 
-Team Members
+Drive Station Setup
 ------------
 
 Install $project by running:
 
     install project
 
-Team Mentors
+What should our Technition do?
 ----------
 
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
-
-Social Media Channels
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-Questions?
--------
-
-The project is licensed under the BSD license.
