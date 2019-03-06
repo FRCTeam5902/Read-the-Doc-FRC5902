@@ -18,7 +18,7 @@ Team Mentors
 ----------
 
 - Wayne Moulton - Lead Mentor - New Heights
-- Tim McCannell - Lead Mentor - Analog Devices
+- Tim MacCannell - Lead Mentor - Analog Devices
 - Gordon Reynolds - Lead Mentor - Portsmouth High School Computer Science
 - Michelle Holzman - Lead Mentor - Portsmouth Naval Shipyard
 
