@@ -26,10 +26,10 @@ Install $project by running:
 1) Turn off Windows Firewall
 2) Connect to the robots WiFi network '5902 Deep Space'
 3) Launch the Drive Station from the Desktop Taskbar
-4) Launch the Smartdashboard
-    4a) Launch Windows command line by going in seach menu in the bottom left and typing 'cmd'
-    4b) Type 'cd C:\Users\newhe\frcdashboard\frc5902_dashboard'
-    4c) Type 'npm start' and the Smartdashboard should begin to run
+4) Launch Windows command line by going in seach menu in the bottom left and typing 'cmd'
+5) Type 'cd C:\Users\newhe\frcdashboard\frc5902_dashboard'
+6) Type 'npm start' and the Smartdashboard should begin to run
+
 What should our Technician do?
 ----------
 
